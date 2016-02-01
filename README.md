@@ -1,9 +1,6 @@
 # Gitlet
 
-Nathaniel Low
-Andrew Hild
-Katie Jiang
-Arshia Malkani
+Nathaniel Low, Andrew Hild, Katie Jiang, Arshia Malkani
 
 A reproduction of git.
 
